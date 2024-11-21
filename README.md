@@ -1,4 +1,4 @@
-# Bengali Text Classification
+# Bengali Text Classification using Hybrid Model (LSI & Word-embedding)
 
 This project focuses on classifying Bengali text documents into predefined labels using machine learning algorithms and natural language processing (NLP) techniques. The methodology combines Latent Semantic Indexing (LSI) and Word Embedding models to represent documents and employs a Support Vector Machine (SVM) classifier for classification.
 
